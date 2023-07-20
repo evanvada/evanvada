@@ -1,9 +1,6 @@
-- Hi, I’m Evan.
-
-- I’m interested in fullstack web development.
-
-- I’m currently learning React, NodeJS and MongoDB.
-
-- I'm looking to work with a company as an apprentice.
-
-- My email is evanvadapro@gmail.com
+# About myself
+- 👋 Hi, my name's Evan.
+- 💻 Interested in fullstack development
+- 📚 Currently learning React, NodeJS and MongoDB
+- 🔎 And looking to work with a company as an apprentice
+- 🗺️ You can contact me at evanvadapro@gmail.com
